@@ -1,0 +1,112 @@
+id: 8429d2b033ea4e8fa9c3559c480ba484
+annotation_type: Pagination
+revision: '00001'
+annotations:
+  4155aaa9cbc84e148196a1e2da8c7a9b:
+    span:
+      start: 0
+      end: 653
+    imgnum: 1
+    reference: I3CN18660001.tif
+  561a45ad33cf449881ff07098e352e27:
+    span:
+      start: 654
+      end: 769
+    imgnum: 3
+    reference: I3CN18660003.jpg
+  e21af5bccfa4440ea51884554366abad:
+    span:
+      start: 770
+      end: 1534
+    imgnum: 4
+    reference: I3CN18660004.jpg
+  aa6fa4bb36254b80a50d1c31ef93e715:
+    span:
+      start: 1535
+      end: 2299
+    imgnum: 5
+    reference: I3CN18660005.jpg
+  1e93f9802acd472ca47083c2e5d2c109:
+    span:
+      start: 2300
+      end: 3450
+    imgnum: 6
+    reference: I3CN18660006.jpg
+  8d08ff3d07244f67b08ea5fde66eabdf:
+    span:
+      start: 3451
+      end: 4559
+    imgnum: 7
+    reference: I3CN18660007.jpg
+  27bbfa1c1fd54ebda7205654bada3ce8:
+    span:
+      start: 4560
+      end: 5716
+    imgnum: 8
+    reference: I3CN18660008.jpg
+  3ff0c2353c684324ade09533c8e58823:
+    span:
+      start: 5717
+      end: 6901
+    imgnum: 9
+    reference: I3CN18660009.jpg
+  2bc8f3fd8ab049859f927b9d2a74bb55:
+    span:
+      start: 6902
+      end: 8069
+    imgnum: 10
+    reference: I3CN18660010.jpg
+  239ff8da26344d58b17a9a223315da0c:
+    span:
+      start: 8070
+      end: 9303
+    imgnum: 11
+    reference: I3CN18660011.jpg
+  d6c9c8a845074bc481e9574b42d6f522:
+    span:
+      start: 9304
+      end: 10533
+    imgnum: 12
+    reference: I3CN18660012.jpg
+  7320450bd71c4c1fb97d6103dde34845:
+    span:
+      start: 10534
+      end: 11727
+    imgnum: 13
+    reference: I3CN18660013.jpg
+  8bb67a9a7ca74cb0af5592e44677fcb5:
+    span:
+      start: 11728
+      end: 12936
+    imgnum: 14
+    reference: I3CN18660014.jpg
+  dafc702e0346462c9af0278667933c4f:
+    span:
+      start: 12937
+      end: 14134
+    imgnum: 15
+    reference: I3CN18660015.jpg
+  a97057ddc90f4bf1a37adbe75bfa2f73:
+    span:
+      start: 14135
+      end: 15345
+    imgnum: 16
+    reference: I3CN18660016.jpg
+  d05f52e89249463ebb99e5d77a83b169:
+    span:
+      start: 15346
+      end: 16589
+    imgnum: 17
+    reference: I3CN18660017.jpg
+  7a55610e1120476ba7ac80d7429b9bfc:
+    span:
+      start: 16590
+      end: 17802
+    imgnum: 18
+    reference: I3CN18660018.jpg
+  f150816163334f1a993ccb45f8b76880:
+    span:
+      start: 17803
+      end: 18621
+    imgnum: 19
+    reference: I3CN18660019.jpg
